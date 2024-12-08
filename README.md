@@ -1,20 +1,20 @@
 # ARSLS - Link Shortener
 
-ARSLS, Python ile geliştirilmiş, URL kısaltma ve kısaltılmış URL'yi kolayca panoya kopyalama işlemini gerçekleştiren bir GUI uygulamasıdır.
+ARSLS is a GUI application developed with Python that shortens URLs and easily copies the shortened URL to the clipboard.
 
-## Özellikler
+## Features
 
-- URL'leri kısaltma
-- Kısaltılmış URL'yi panoya kopyalama
-- Basit ve kullanımı kolay arayüz
+- Shorten URLs
+- Copy shortened URL to clipboard
+- Simple and easy to use interface
 
-## Kurulum
+## Setup
 
 ```bash
 pip install arsls
 ```
 
-## KUllanım
+## Usage
 
 ```bash
 arsls
